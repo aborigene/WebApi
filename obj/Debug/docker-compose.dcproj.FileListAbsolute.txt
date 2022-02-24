@@ -1,0 +1,15 @@
+C:\Users\igor.simoes\GitRepos\WebApi\WebApi\bin\Debug\WebApi.deps.json
+C:\Users\igor.simoes\GitRepos\WebApi\WebApi\bin\Debug\WebApi.runtimeconfig.json
+C:\Users\igor.simoes\GitRepos\WebApi\WebApi\bin\Debug\WebApi.runtimeconfig.dev.json
+C:\Users\igor.simoes\GitRepos\WebApi\WebApi\bin\Debug\appsettings.Development.json
+C:\Users\igor.simoes\GitRepos\WebApi\WebApi\bin\Debug\appsettings.json
+C:\Users\igor.simoes\GitRepos\WebApi\WebApi\bin\Debug\WebApi.exe
+C:\Users\igor.simoes\GitRepos\WebApi\WebApi\bin\Debug\WebApi.dll
+C:\Users\igor.simoes\GitRepos\WebApi\WebApi\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\igor.simoes\GitRepos\WebApi\WebApi\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\igor.simoes\GitRepos\WebApi\WebApi\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\igor.simoes\GitRepos\WebApi\WebApi\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\igor.simoes\GitRepos\WebApi\WebApi\bin\Debug\WebApi.pdb
+C:\Users\igor.simoes\GitRepos\WebApi\WebApi\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\igor.simoes\GitRepos\WebApi\WebApi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\igor.simoes\GitRepos\WebApi\WebApi\obj\Debug\docker-compose.dcproj.CopyComplete
